@@ -11,11 +11,13 @@
 ### - 🤔 I’m looking for help with Online Events and Face-to-face Events
 ### - 📫 How to reach me: [@LuanFarias](https://www.linkedin.com/in/luan-farias-81746b157/);
 
+### - 💬 Contributions
+
+- PythonRio - https://www.meetup.com/pt-BR/pythonrio/
+- RubyOnRio - https://github.com/rubyonrio/rubyonrio.github.com/graphs/contributors
 <!--
-**LuanFMelo/LuanFMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
