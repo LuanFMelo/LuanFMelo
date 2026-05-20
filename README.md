@@ -42,8 +42,7 @@
 
 ### 📈 GitHub Stats
 
-[![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanFMelo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuanFMelo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFMelo&layout=compact&theme=tokyonight)](https://github.com/LuanFMelo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuanFMelo&theme=tokyonight&hide_border=true)](https://github.com/LuanFMelo)
 
 ---
 
@@ -51,5 +50,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luanfmelo-tech)
 [![Email](https://img.shields.io/badge/Email-luanfmelo.tech%40gmail.com-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:luanfmelo.tech@gmail.com)
-
-🌎 Based in São Paulo, Brazil — **open to opportunities in Paraguay and LATAM**
