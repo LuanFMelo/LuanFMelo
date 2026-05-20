@@ -1,7 +1,6 @@
 # Hi, I'm Luan Farias 👋
 
-**Site Reliability Engineer @ [Stone](https://www.stone.com.br/)** — one of Brazil's largest fintech companies  
-6+ years operating payment-critical infrastructure at scale across **AWS · GCP · Azure**
+**Site Reliability Engineer @ [Stone](https://www.stone.com.br/)** — one of Brazil's largest fintech companies | 6+ years operating payment-critical infrastructure at scale across **AWS · GCP · Azure**
 
 ---
 
