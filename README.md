@@ -41,11 +41,11 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LuanFMelo&theme=tokyonight&hide_border=true)](https://github.com/LuanFMelo)
+[![Followers](https://img.shields.io/github/followers/LuanFMelo?style=for-the-badge&logo=github&label=Followers)](https://github.com/LuanFMelo?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLuanFMelo)](https://github.com/LuanFMelo?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=LuanFMelo&style=for-the-badge&color=0e75b6)](https://github.com/LuanFMelo)
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanFMelo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFMelo&layout=compact&theme=tokyonight&hide_border=true)
+[Contribution calendar](https://github.com/LuanFMelo)
 
 ---
 
