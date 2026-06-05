@@ -1,22 +1,22 @@
 # Hi, I'm Luan Farias 👋
 
-**Site Reliability Engineer @ [Stone](https://www.stone.com.br/)** — one of Brazil's largest fintech companies | 6+ years operating payment-critical infrastructure at scale across **AWS · GCP · Azure**
+**Site Reliability Engineer @ [Stone](https://www.stone.com.br/)** - one of Brazil's largest fintech companies | 6+ years operating payment-critical infrastructure at scale across **AWS · GCP · Azure**
 
 ---
 
-### 🔧 What I do
+### What I do
 
-- ☸️ Manage **10+ Kubernetes clusters** across hybrid environments (cloud + on-premises)
-- 🔁 Build and maintain **CI/CD pipelines** supporting multiple development teams
-- 📊 Design observability stacks: Prometheus, Grafana, Loki, OpenTelemetry, DataDog
-- 🔐 Work with **PCI-DSS** compliance, HashiCorp Vault, secret management
-- 💥 Practice **Chaos Engineering** (Chaos Monkey, LitmusChaos) to validate reliability
-- 📉 Own **SLO/SLI/SLA** definition, on-call rotations, postmortems and RCA
-- 💰 Drive **FinOps** and cloud cost optimization across multi-cloud environments
+- Manage **10+ Kubernetes clusters** across hybrid environments (cloud + on-premises)
+- Build and maintain **CI/CD pipelines** supporting multiple development teams
+- Design observability stacks: Prometheus, Grafana, Loki, OpenTelemetry, Datadog
+- Work with **PCI-DSS** compliance, HashiCorp Vault, and secret management
+- Practice **Chaos Engineering** (Chaos Monkey, LitmusChaos) to validate reliability
+- Own **SLO/SLI/SLA** definition, on-call rotations, postmortems, and RCA
+- Drive **FinOps** and cloud cost optimization across multi-cloud environments
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -39,13 +39,17 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LuanFMelo&theme=tokyonight&hide_border=true)](https://github.com/LuanFMelo)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LuanFMelo&theme=tokyonight&hide_border=true)](https://github.com/LuanFMelo)
+
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanFMelo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFMelo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📫 Let's connect
+### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luanfmelo-tech)
 [![Email](https://img.shields.io/badge/Email-luanfmelo.tech%40gmail.com-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:luanfmelo.tech@gmail.com)
